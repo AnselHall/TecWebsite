@@ -22,6 +22,7 @@
 ###UI3：http://www.appance.com/
 ###慕课网屏幕适配：http://www.imooc.com/learn/484?from=itblog
 ###Android事件：http://www.cnblogs.com/sunzn/archive/2013/05/10/3064129.html
+###UI性能检测：http://www.codeceo.com/article/android-app-performance-guide.html
 
 ##Git
 ### Git 命令图解：http://photo.weibo.com/3847518190/wbphotos/large/mid/3933820229135309/pid/e55477eejw1f07e4ffienj21cv2funfq
